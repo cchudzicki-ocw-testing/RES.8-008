@@ -1,8 +1,20 @@
 {
   "term": "Spring",
   "year": "2022",
-  "level": [],
-  "topics": [],
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [],
@@ -13,7 +25,7 @@
     "website": "nuclear-weapons-education-project"
   },
   "course_title": "Nuclear Weapons Education Project",
-  "course_description": "",
+  "course_description": "The MIT Nuclear Weapons Education Project aims to teach individuals, particularly those who grew up after the end of the Cold War, about what nuclear weapons are and their effects on the world. The project website provide materials for lectures or discussions at introductory course levels.",
   "department_numbers": [
     "8"
   ],
