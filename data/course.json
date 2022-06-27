@@ -17,8 +17,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "nuclear-weapons-education-project"
+    "content": [
+      "e644ca69-12cf-42db-a499-5e3970aed2b7"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "76145e69-c25f-4ba3-a923-866da12fddf3",
